@@ -1,2 +1,2 @@
 # Wanderlust
-Wanderlust is treavel room booking websites
+Wanderlust is travel room booking websites
